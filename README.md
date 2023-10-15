@@ -4,7 +4,7 @@
 
 The Runtime Forge Mod Loader is a tool that allows you to dynamically add Forge mods to your Minecraft instance at runtime. This can be particularly useful for testing and development purposes or more, as it eliminates the need to restart the game every time you want to add a mod.
 
-[![uh idk](https://img.youtube.com/vi/UPCXjHciLGE/2.jpg)](https://www.youtube.com/watch?v=UPCXjHciLGE)
+[![uh idk](https://img.youtube.com/vi/UPCXjHciLGE/0.jpg)](https://www.youtube.com/watch?v=UPCXjHciLGE)
 
 ## Features
 
